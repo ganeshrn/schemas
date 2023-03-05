@@ -15,15 +15,13 @@ packaging==21.3
 pep517==0.12.0
 pip-tools==6.8.0
 platformdirs==2.5.2
-pre-commit==2.20.0
+pre-commit==3.1.1
 pyparsing==3.0.9
 pyrsistent==0.18.1
 pyyaml==6.0
 requests==2.27.1
 ruamel-yaml==0.17.21
-ruamel-yaml-clib==0.2.6
 six==1.16.0
-toml==0.10.2
 tomli==2.0.1
 urllib3==1.26.9
 virtualenv==20.15.1
